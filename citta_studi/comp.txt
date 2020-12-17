@@ -1,0 +1,6 @@
+# |A| : computation capacity level
+3
+# D : computation capacity
+30 40 50
+# P : computation capacity budget
+600

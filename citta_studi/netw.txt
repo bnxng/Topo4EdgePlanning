@@ -1,0 +1,15 @@
+# K : ingress nodes
+0 1 2 12 22 24
+# C[K] : network capacity
+40 50 60 40 60 50
+# |N| : no. of traffic type
+5
+# tau : tolerable latency
+1 2 3 3.5 1.5
+# lambda : K x N traffic rates
+7 3 12 5 9
+16 12 8 6 4
+5 7 9 15 20
+7 3 12 5 9
+5 7 9 15 20
+16 12 8 6 4
